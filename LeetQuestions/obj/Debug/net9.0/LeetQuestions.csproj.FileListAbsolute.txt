@@ -1,0 +1,14 @@
+C:\Program Files\Code\Projects\LeetQuestions\bin\Debug\net9.0\LeetQuestions.exe
+C:\Program Files\Code\Projects\LeetQuestions\bin\Debug\net9.0\LeetQuestions.deps.json
+C:\Program Files\Code\Projects\LeetQuestions\bin\Debug\net9.0\LeetQuestions.runtimeconfig.json
+C:\Program Files\Code\Projects\LeetQuestions\bin\Debug\net9.0\LeetQuestions.dll
+C:\Program Files\Code\Projects\LeetQuestions\bin\Debug\net9.0\LeetQuestions.pdb
+C:\Program Files\Code\Projects\LeetQuestions\obj\Debug\net9.0\LeetQuestions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Program Files\Code\Projects\LeetQuestions\obj\Debug\net9.0\LeetQuestions.AssemblyInfoInputs.cache
+C:\Program Files\Code\Projects\LeetQuestions\obj\Debug\net9.0\LeetQuestions.AssemblyInfo.cs
+C:\Program Files\Code\Projects\LeetQuestions\obj\Debug\net9.0\LeetQuestions.csproj.CoreCompileInputs.cache
+C:\Program Files\Code\Projects\LeetQuestions\obj\Debug\net9.0\LeetQuestions.dll
+C:\Program Files\Code\Projects\LeetQuestions\obj\Debug\net9.0\refint\LeetQuestions.dll
+C:\Program Files\Code\Projects\LeetQuestions\obj\Debug\net9.0\LeetQuestions.pdb
+C:\Program Files\Code\Projects\LeetQuestions\obj\Debug\net9.0\LeetQuestions.genruntimeconfig.cache
+C:\Program Files\Code\Projects\LeetQuestions\obj\Debug\net9.0\ref\LeetQuestions.dll
